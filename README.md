@@ -11,3 +11,9 @@ CRISP-DM CRoss Industry Standard Process for Data Mining
 4. Modeling
 5. Evaluation
 6. Deployment
+
+https://github.com/bsenst/midterm-resp
+
+https://github.com/bsenst/capstone1-skin-lesion-classifier
+
+https://github.com/bsenst/capstone2-predict-service-utilisation
